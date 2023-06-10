@@ -17,10 +17,6 @@ with open('f1.txt','r') as f1:
 ```
 ### OUTPUT:
 ![image](https://github.com/Meetha22003992/copy-file/assets/119401038/c449035a-74dd-4e1b-9e94-df310b9ce589)
-
-
-
 ![image](https://github.com/Meetha22003992/copy-file/assets/119401038/84599b9f-28c1-45da-b36c-a58404cfadf0)
-
 ## RESULT:
 Thus the program is written to copy the contents from one file to another file.
