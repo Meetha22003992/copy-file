@@ -16,9 +16,11 @@ with open('f1.txt','r') as f1:
             f2.write(line)
 ```
 ### OUTPUT:
-![image](https://github.com/Meetha22003992/copy-file/assets/119401038/55d1a0f4-b689-42ec-a029-9031b0a4b098)
+f1.txt:
+![image](https://github.com/Meetha22003992/copy-file/assets/119401038/c449035a-74dd-4e1b-9e94-df310b9ce589)
 
-![image](https://github.com/Meetha22003992/copy-file/assets/119401038/b640a1ab-83f0-43a2-b0d0-c0424b9deda6)
+f2.txt:
+![image](https://github.com/Meetha22003992/copy-file/assets/119401038/84599b9f-28c1-45da-b36c-a58404cfadf0)
 
 ## RESULT:
 Thus the program is written to copy the contents from one file to another file.
