@@ -20,8 +20,8 @@ f1.txt:
 
 ![image](https://github.com/Meetha22003992/copy-file/assets/119401038/c449035a-74dd-4e1b-9e94-df310b9ce589)
 
-f2.txt:
 
+f2.txt:
 
 ![image](https://github.com/Meetha22003992/copy-file/assets/119401038/84599b9f-28c1-45da-b36c-a58404cfadf0)
 
