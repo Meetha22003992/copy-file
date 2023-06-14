@@ -5,9 +5,9 @@ To write a python program for copying the contents from one file to another file
 PC
 Anaconda - Python 3.7
 ## ALGORITHM: 
-### Step 1: Open the first file in read mode.
-### Step 2: Again open the second file in append mode, so that we can make changes in it.
-### Step 3: Read the line in first file and write the line which was read in the second.
+1. Open the first file in read mode.
+2. Again open the second file in append mode, so that we can make changes in it.
+3. Read the line in first file and write the line which was read in the second.
 ## PROGRAM:
 ```
 with open('f1.txt','r') as f1:
