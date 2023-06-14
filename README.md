@@ -9,6 +9,8 @@ PC, Anaconda - Python 3.7
 3. Read the line in first file and write the line which was read in the second.
 ## PROGRAM:
 ```
+#Developed By: Meetha Prabhu
+#Reg No:212222240065
 with open('f1.txt','r') as f1:
     with open ('f2.txt','a') as f2:
         for line in f1:
